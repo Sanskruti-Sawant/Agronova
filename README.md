@@ -1,10 +1,9 @@
-# AgroNova 🌱
+# AgroNova
 
 **AI-powered crop and fertilizer recommendation platform**
 
 AgroNova is a web application designed to support data-informed agricultural decisions. It combines soil-image classification, machine-learning models, and weather/location information to generate crop and fertilizer recommendations through a FastAPI backend and a responsive web frontend.
 
-> **Important:** AgroNova is an educational decision-support project. Its predictions are estimates based on the datasets and model assumptions used by the application. They are not a substitute for laboratory soil testing or advice from a qualified agricultural expert.
 
 ---
 
