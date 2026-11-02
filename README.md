@@ -336,7 +336,3 @@ Contributions, bug reports, and suggestions are welcome.
 5. Open a pull request describing your changes.
 
 Please avoid committing API keys, local environment files, virtual environments, cache directories, or other generated artifacts.
-
-## License
-
-No license file is currently included in this repository. Unless a license is added, the project should not be assumed to be available for unrestricted reuse, modification, or redistribution.
